@@ -1,4 +1,5 @@
-![image](https://github.com/SolightzZ/Unicode-glyph_E8/assets/94944606/6edd4d83-8350-42b5-a31c-cf25ad61a136)# **`Unicode Bedrock glyph_E8`**
+
+# **`Unicode Bedrock glyph_E8`**
 `glyph_E8`
 
 **เพื่อเป็นการขอบคุณโปรกด subscribe ช่อง | To thank the pro, press subscribe.**
