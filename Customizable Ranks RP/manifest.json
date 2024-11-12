@@ -1,34 +1,20 @@
 {
-	"format_version": 2,
-	"metadata": {
-		"authors": [
-			"Angel136381"
-		]
-	},
-	"header": {
-		"name": "pack.name",
-		"description": "pack.description",
-		"min_engine_version": [
-			1,
-			20,
-			30
-		],
-		"uuid": "6f51ae12-68e4-49ee-b5e4-894d5bd1b001",
-		"version": [
-			1,
-			0,
-			2
-		]
-	},
-	"modules": [
-		{
-			"type": "resources",
-			"uuid": "f587cc78-0cfe-4801-b84c-ba93bf0a3685",
-			"version": [
-				1,
-				0,
-				0
-			]
-		}
-	]
+  "format_version": 2,
+  "metadata": {
+    "authors": ["Angel136381"]
+  },
+  "header": {
+    "name": "Angel13638 Edit: SolightzZ",
+    "description": "Unicode-glyph_E8",
+    "min_engine_version": [1, 20, 0],
+    "uuid": "6f51ae12-68e4-49ee-b5e4-894d5bd1b001",
+    "version": [1, 0, 2]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "f587cc78-0cfe-4801-b84c-ba93bf0a3685",
+      "version": [1, 0, 0]
+    }
+  ]
 }
