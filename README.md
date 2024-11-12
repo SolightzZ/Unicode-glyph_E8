@@ -4,9 +4,13 @@
 
 **เพื่อเป็นการขอบคุณโปรกด subscribe ช่อง | To thank the pro, press subscribe.**
 <br>
-https://www.youtube.com/channel/UCbF0Ijkmoe-sX5JHjTU2Euw
+[ !! Youtube: Reimdes](https://www.youtube.com/channel/UCbF0Ijkmoe-sX5JHjTU2Euw)
+<br>
 <br>
 BY Angel136381 & Jackworlds Discord
+<br>
+<br>
+Code by SolightzZ
 <br>
 
 | Name | Platform | Unicode |                                                 In game                                                 |
@@ -30,5 +34,5 @@ BY Angel136381 & Jackworlds Discord
 |  17  |   All    |        | ![](https://github.com/SolightzZ/Unicode-glyph_E8/assets/94944606/54783a84-3356-4dbe-8d05-94c8ac2e01d7) |
 |  18  |   All    |        | ![](https://github.com/SolightzZ/Unicode-glyph_E8/assets/94944606/99ca161b-f195-401e-b504-8132bc327da9) |
 |  19  |   All    |        | ![](https://github.com/SolightzZ/Unicode-glyph_E8/assets/94944606/811b6e18-d7c6-4abb-8d49-2bbef491c6a9) |
-|  19  |   All    |        |                 ![](https://github.com/SolightzZ/Unicode-glyph_E8/blob/main/png/p1.png)                 |
+|  19  |   All    |        |                 ![](https://github.com/SolightzZ/Unicode-glyph_E8/blob/main/png/p3.png)                 |
 |  20  |   All    |        | ![](https://github.com/SolightzZ/Unicode-glyph_E8/assets/94944606/725a88c5-f1eb-4256-b881-a691fb499250) |
